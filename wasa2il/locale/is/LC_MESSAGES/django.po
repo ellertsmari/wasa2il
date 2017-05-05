@@ -1296,6 +1296,22 @@ msgstr ""
 msgid "Index of %(directory)s"
 msgstr ""
 
+#: wasa2il/templates/_entry_summary.html:5
+msgid "These are the issues up for vote."
+msgstr "Þetta eru þau mál sem verið er að kjósa um."
+
+#: wasa2il/templates/_entry_summary.html:39
+msgid "Show all"
+msgstr "Sýna öll"
+
+#: wasa2il/templates/_entry_summary.html:58
+msgid "Show less"
+msgstr "Sýna færri"
+
+#: wasa2il/templates/_entry_summary.html:108
+msgid "These are the issues being discussed."
+msgstr "Þetta eru þau mál sem verið er að ræða."
+
 #: wasa2il/templates/403.html:5
 msgid "403 Access Denied"
 msgstr ""
